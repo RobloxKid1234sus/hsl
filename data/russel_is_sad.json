@@ -1,10 +1,12 @@
 {
+    "id": 0,
     "name": "russel is sad",
     "author": "wAiex",
-    "creators": [],
+    "creators": ["wAiex"],
     "verifier": "wAiex",
+    "verification": "",
     "percentToQualify": "100",
-    "password": "Free To Copy",
+    "password": "Free to Copy",
     "records": [
     ]
 }
